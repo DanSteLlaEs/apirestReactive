@@ -19,11 +19,11 @@ Pasos para correr el proyecto
     "precio": 456.89,
     "cantidad": 10
 }
- *PUT/id   = http://localhost:8080/api/productos/10 lleva un body de lo que se quiere editar
+  * PUT/id   = http://localhost:8080/api/productos/10 lleva un body de lo que se quiere editar
 {
     "nombre": "TV Panasonic Pantalla LCD",
     "descripcion": "lisa ",
     "precio": 456.89,
     "cantidad": 10
 }
-*DELETE/id = http://localhost:8080/api/productos/1
+ * DELETE/id = http://localhost:8080/api/productos/1
